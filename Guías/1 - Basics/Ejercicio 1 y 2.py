@@ -1,0 +1,11 @@
+x = 1
+y = 2
+z = x + y 
+w = y * y 
+z = x / 10 + y / 10 
+z2 = (x + y) / 10 
+z3 = 2 ** w ** w 
+z4 = 2 ** (w ** w)
+z5 = (2 ** w) ** w
+repeat = 'My name is '
+slim_shady = repeat + ', what?' + repeat + ', who?'

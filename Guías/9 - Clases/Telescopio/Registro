@@ -1,0 +1,13 @@
+7, juan, austral, 10 35 40.5
+7, juan, norte, 10 35 40.5
+8, juan, austral, -8 20 0.5
+8, juan, norte, -8 20 0.5
+9, ana, austral, 0 34 40.5
+9, ana, norte, 0 35 40.5
+10, ana, austral, -8 20 0.5
+10, ana, norte, sin modificacion
+11, ana, austral, 0 20 0.5
+11, ana, norte, 0 20 0.5
+...
+24, bea, austral, -10 22 0.5
+24, bea, norte, sin modificacion

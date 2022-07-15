@@ -1,0 +1,22 @@
+10, hamburguesa, 5
+11, hamburguesa, 15
+11, papas, 12
+12, hamburguesa, 18
+12, papas, 15
+12, nuggets, 12
+13, hamburguesa, 30
+13, papas, 22
+13, nuggets, 11
+14, pizza, 4
+15, coca-cola, 26
+15, pepsi, 21
+16, porro, 420
+16, 7up, 7
+17, dulce de leche, 41
+18, coca-cola, 32
+19, pepsi, 22
+20, dulce de leche, 12
+21, dulce de leche, 43
+23, hamburguesa, 2
+23, nuggets, 10
+24, alcohol, 23
